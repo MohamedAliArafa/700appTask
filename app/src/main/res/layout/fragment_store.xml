@@ -20,7 +20,8 @@
             android:drawableEnd="@drawable/ic_ic_search"
             android:drawableRight="@drawable/ic_ic_search"
             android:hint="@string/search_hint"
-            android:padding="5dp" />
+            android:padding="5dp"
+            android:lines="1"/>
 
         <RelativeLayout
             android:layout_width="match_parent"

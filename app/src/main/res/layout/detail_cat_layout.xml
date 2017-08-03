@@ -21,7 +21,8 @@
             android:drawableEnd="@drawable/ic_ic_search"
             android:drawableRight="@drawable/ic_ic_search"
             android:hint="@string/search_hint"
-            android:padding="5dp" />
+            android:padding="5dp"
+            android:lines="1"/>
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/products_recycle"
